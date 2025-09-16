@@ -17,7 +17,7 @@ I'm a passionate **Software Developer** based in **Colombo, Sri Lanka**, with a 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,git,github,vscode,html,css" />
 </div>
 
 ## 📊 GitHub Stats
