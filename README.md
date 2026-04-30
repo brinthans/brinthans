@@ -1,74 +1,129 @@
-# Hi there, I'm Brinthan! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Brinthan+Segar+%F0%9F%91%8B;Senior+Software+Engineer;React+%26+React+Native+Specialist;6%2B+Years+of+Crafting+Digital+Experiences" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Senior+Software+Developer+from+Colombo;Always+learning+new+technologies;Building+solutions+one+commit+at+a+time" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Software Developer** based in **Colombo, Sri Lanka**, with a love for creating innovative solutions and exploring new technologies. With a journey that started in 2015, I've been continuously evolving in the world of software development.
-
-- 🔭 I'm currently working on exciting projects across my 20+ repositories
-- 🌱 Always learning and adapting to new technologies
-- 💡 I believe in writing clean, efficient, and maintainable code
-- 🎯 Open to collaboration and new opportunities
-- 📍 Based in Colombo, Sri Lanka
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,git,github,vscode,html,css" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brinthans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinthans&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brinthans&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brinthans&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
-</div>
-
-## 🔥 Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brinthans&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brinthans)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brinthans)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-## 💭 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/brinthan-segar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:brinthan7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/brinthan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brinthans&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+## 🧑‍💻 About Me
 
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** 
+I'm a **Senior Software Engineer** based in **Colombo, Sri Lanka** 🇱🇰, specializing in **React** and **React Native**. I love building digital experiences that blend **performance**, **scalability**, and **clean design**.
 
-Thanks for visiting my profile! 😊
+With **6+ years** of professional experience across web and mobile ecosystems, I've delivered production-grade apps for global clients in the **telecommunications** and **digital media** industries.
 
-</div>
+- 🔭 Currently working at **Virtusa Pvt Ltd** on a Telco Mobile App
+- 🌱 Always exploring the latest in React Native & mobile development
+- 💬 Ask me about **React**, **React Native**, **TypeScript**, **Node.js**
+- 📫 Reach me at **brinthan7@gmail.com**
+- 📍 **Colombo, Sri Lanka**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Virtusa Pvt Ltd — *Senior Software Engineer* (Feb 2022 – Present)
+> Telco Mobile App | React Native
+
+- Built and optimized scalable React Native features using best coding practices
+- Improved app performance through efficient state management and code optimization
+- Conducted code reviews and mentored junior developers
+- Collaborated with UI/UX and backend teams across the product lifecycle
+
+---
+
+### 🏢 Cult Digital Pvt Ltd — *Frontend Developer* (Sep 2021 – Feb 2022)
+> [camperbug.co.uk](https://camperbug.co.uk) | React, HTML, SASS
+
+- Developed and maintained responsive, user-friendly web interfaces
+- Translated UI/UX designs into high-performing, cross-browser compatible web pages
+- Optimized front-end performance to reduce load times and enhance UX
+
+---
+
+### 🏢 Orfium Sri Lanka — *Content Support Specialist* (Nov 2020 – Sep 2021)
+> Music Rights Management System
+
+- Implemented automation scripts to convert metadata into API-compatible formats
+- Managed content repositories and databases for efficient storage and retrieval
+
+---
+
+### 🏢 Virtusa Pvt Ltd — *Software Engineer Intern* (Aug 2019 – Aug 2020)
+> AureliaJS, Vue.js, SASS
+
+- Assisted in development and maintenance of web application UIs
+- Collaborated with design teams to implement UI/UX designs
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 🎓 BSc (Hons) in Software Engineering | Cardiff Metropolitan University (ICBT), Sri Lanka | 2020 – 2021 |
+| 📜 Dual HND Software Engineering & Computing | Cardiff Metropolitan University (ICBT), Sri Lanka | 2015 – 2017 |
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇬🇧 English | Fluent |
+| 🇱🇰 Tamil | Native |
+| 🇱🇰 Sinhala | Fluent |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brinthan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brinthan&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinthan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building digital experiences that blend performance, scalability, and clean design."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=brinthan&label=Profile%20views&color=58A6FF&style=flat" alt="brinthan" />
+</p>
