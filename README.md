@@ -45,67 +45,12 @@ With **6+ years** of professional experience across web and mobile ecosystems, I
 
 ### Cloud & Tools
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
----
-
-## 💼 Work Experience
-
-### 🏢 Virtusa Pvt Ltd — *Senior Software Engineer* (Feb 2022 – Present)
-> Telco Mobile App | React Native
-
-- Built and optimized scalable React Native features using best coding practices
-- Improved app performance through efficient state management and code optimization
-- Conducted code reviews and mentored junior developers
-- Collaborated with UI/UX and backend teams across the product lifecycle
-
----
-
-### 🏢 Cult Digital Pvt Ltd — *Frontend Developer* (Sep 2021 – Feb 2022)
-> [camperbug.co.uk](https://camperbug.co.uk) | React, HTML, SASS
-
-- Developed and maintained responsive, user-friendly web interfaces
-- Translated UI/UX designs into high-performing, cross-browser compatible web pages
-- Optimized front-end performance to reduce load times and enhance UX
-
----
-
-### 🏢 Orfium Sri Lanka — *Content Support Specialist* (Nov 2020 – Sep 2021)
-> Music Rights Management System
-
-- Implemented automation scripts to convert metadata into API-compatible formats
-- Managed content repositories and databases for efficient storage and retrieval
-
----
-
-### 🏢 Virtusa Pvt Ltd — *Software Engineer Intern* (Aug 2019 – Aug 2020)
-> AureliaJS, Vue.js, SASS
-
-- Assisted in development and maintenance of web application UIs
-- Collaborated with design teams to implement UI/UX designs
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 🎓 BSc (Hons) in Software Engineering | Cardiff Metropolitan University (ICBT), Sri Lanka | 2020 – 2021 |
-| 📜 Dual HND Software Engineering & Computing | Cardiff Metropolitan University (ICBT), Sri Lanka | 2015 – 2017 |
-
----
-
-## 🌐 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 English | Fluent |
-| 🇱🇰 Tamil | Native |
-| 🇱🇰 Sinhala | Fluent |
 
 ---
 
