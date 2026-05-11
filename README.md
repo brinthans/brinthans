@@ -58,7 +58,7 @@ With **6+ years** of professional experience across web and mobile ecosystems, I
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brinthan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brinthan&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=brinthan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
