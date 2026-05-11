@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/brinthan-segar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:brinthan7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/brinthan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/brinthans"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -57,12 +57,12 @@ With **6+ years** of professional experience across web and mobile ecosystems, I
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brinthan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=brinthan&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brinthans&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=brinthans&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinthan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinthans&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -70,5 +70,5 @@ With **6+ years** of professional experience across web and mobile ecosystems, I
 <p align="center">
   <i>"Building digital experiences that blend performance, scalability, and clean design."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=brinthan&label=Profile%20views&color=58A6FF&style=flat" alt="brinthan" />
+  <img src="https://komarev.com/ghpvc/?username=brinthans&label=Profile%20views&color=58A6FF&style=flat" alt="brinthan" />
 </p>
