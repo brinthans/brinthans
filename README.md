@@ -1,74 +1,145 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Brinthan+Segar+%F0%9F%91%8B;Senior+Software+Engineer;React+%26+React+Native+Specialist;6%2B+Years+of+Crafting+Digital+Experiences" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brinthan-segar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:brinthan7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/brinthans"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+/
+Claude finished the response
+help me redesign github profile readme
 
+2:50 AM
+
+Reading the frontend design skill
+Reading the frontend design skill
+Let me check your existing CV data and your current GitHub profile to understand your style before designing.
+
+
+Relevant chats
+Relevant chats
+Good — I have full context on your previous README. Now let me design a significantly upgraded version that showcases your projects (Rememberly & Zee Books) from the FE CV and gives it a much more distinctive look.
+
+Now let me look at your FE CV projects closely and design the README:
+
+
+Created a file, read a file
+Created a file, read a file
+Here's your redesigned README. The big changes from the previous version:
+
+What's new:
+
+Projects section — Rememberly and Zee Books are now front and center, with the actual technical details from your FE CV (timezone math, multi-tenant routing, AI extraction flow, etc.). This is the biggest upgrade — recruiters and devs who land on your profile now see real work, not just a badge wall.
+Better About Me — includes direct references to the projects so it ties together
+Expanded tech stack — added Expo, React Query, PostgreSQL as separate badges to reflect your actual stack
+Cleaner stat layout — streak + top langs side by side, general stats below
+What stayed the same (intentionally):
+
+No career history or education (per your preference)
+Badge-driven tech stack
+GitHub stats cards
+One thing to double-check: make sure your GitHub username is brinthan in the stats card URLs — if it's different, just update it throughout. Want to tweak anything?
+
+
+Readme
+Document · MD 
+
+
+More simple and professional
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+
+
+raw
+Readme · MD
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Brinthan+%F0%9F%91%8B;Senior+Frontend+Engineer;React+%26+React+Native+Dev;Building+things+people+use" alt="Typing SVG" />
+</div>
+<div align="center">
+  <a href="https://linkedin.com/in/brinthan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://brinthan.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:brinthan7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=brinthan&label=Profile+views&color=58A6FF&style=for-the-badge" />
+</div>
+<br />
 ---
-
+ 
 ## 🧑‍💻 About Me
-
-I'm a **Senior Software Engineer** based in **Colombo, Sri Lanka** 🇱🇰, specializing in **React** and **React Native**. I love building digital experiences that blend **performance**, **scalability**, and **clean design**.
-
-With **6+ years** of professional experience across web and mobile ecosystems, I've delivered production-grade apps for global clients in the **telecommunications** and **digital media** industries.
-
-- 🔭 Currently working at **Virtusa Pvt Ltd** on a Telco Mobile App
-- 🌱 Always exploring the latest in React Native & mobile development
-- 💬 Ask me about **React**, **React Native**, **TypeScript**, **Node.js**
-- 📫 Reach me at **brinthan7@gmail.com**
-- 📍 **Colombo, Sri Lanka**
-
+ 
+- 🏢 **Senior Software Engineer** at [Virtusa](https://www.virtusa.com) — building a React Native telco app used by millions
+- 🌍 Based in **Colombo, Sri Lanka**
+- ⚡ 6+ years across **web & mobile** — React, React Native, TypeScript
+- 🛠️ Love clean architecture, good performance, and making teams ship better
+- 🚀 Currently building [Rememberly](https://github.com/brinthan/rememberly) & [Zee Books](https://github.com/brinthan/zee-books) on the side
+- 💬 Ask me about **React Native**, **Supabase**, or **frontend performance**
 ---
-
+ 
+## 🚀 Personal Projects
+ 
+### 📅 Rememberly — Cross-Platform Birthday Reminder App
+> React Native · Expo SDK 54 · TypeScript · Expo Router · Zustand · Reanimated 4 · EAS Build
+ 
+A birthday reminder app for iOS, Android, and web — built with a single codebase via Expo.
+ 
+- 🌐 **Timezone-aware notifications** — reminders fire at midnight in the *contact's* timezone using `Intl.DateTimeFormat` offset math
+- 🎨 **Theming system** — light/dark modes + 4 colour palettes via a single `useTheme()` hook; Zustand persistence gate prevents flash on startup
+- 🔗 **Deep-linked notifications** — tapping a reminder routes directly to the right birthday screen via typed Expo Router links
+- ⚡ Built on **React 19**, React Compiler, New Architecture, and Reanimated 4 worklets for confetti & haptics
+---
+ 
+### 🗂️ Zee Books — Multi-Tenant Document & Invoicing SaaS
+> React 18 · TypeScript · Vite · Zustand · Tailwind CSS v4 · shadcn/ui · Supabase · pdf-lib · Netlify
+ 
+A SaaS tool for businesses to manage documents and invoices with AI-powered data extraction.
+ 
+- 🏢 **Multi-tenant routing** — each business gets its own `/:slug/*` space with a full permissions layer (`canAdd/canView/canEdit/isOwner`)
+- 🤖 **AI extraction flow** — upload receipt → Supabase Storage → Postgres trigger → Edge Function calls Claude Vision → result reflected live
+- 🎨 **Per-tenant theming** — 6 colour themes per client via CSS variables, no build required
+- 📄 **Client-side PDF editor** — split & merge invoices with no server round-trips; invoice generator with live preview, line items, discounts, and save-as-template
+---
+ 
 ## 🛠️ Tech Stack
-
-### Languages & Frameworks
+ 
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+ 
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+ 
+### State & APIs
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+ 
 ### Cloud & Tools
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+ 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
 ---
-
+ 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brinthans&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=brinthans&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinthans&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
+ 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brinthan&theme=github-dark-blue&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinthan&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brinthan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=false" height="165" />
+</div>
 ---
-
-<p align="center">
-  <i>"Building digital experiences that blend performance, scalability, and clean design."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=brinthans&label=Profile%20views&color=58A6FF&style=flat" alt="brinthan" />
-</p>
+ 
+<div align="center">
+  <i>"The best code is the code your teammates can maintain."</i>
+</div>
